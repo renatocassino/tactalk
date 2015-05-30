@@ -1,13 +1,10 @@
-- question: Qual a ementa do curso de ciência da computação
-  answer: Algoritmos, Automatos finitos, entre outros.
-- question: Quais são os curso de exatas?
-  answer: Matemática, Física, Química, TI, SI, Análise de sistemas entre outros
-- question: Qual a ementa do curso de sistemas de informação?
-  answer: Algoritmos, Programação para web e dispositivos móveis.
-- question: Boa noite
-  answer: Boa noite pra você também
-- question: Vitinho é gamado?
-  answer: Claro que é. Tem dúvidas?
-- question: Muito obrigado
-  answer: Disponha. Estou aqui para isso.
-  method: Something
+- question: Who is the most richest man in the world?
+  answer: Bill Gates.
+- question: What is the more expensive car?
+  answer: McLaren P1 GTR and cost $3.3M.
+- question: What is the most popular programming language in 2015?
+  answer: C, by Tiobe.
+- question: Good night
+  answer: Good night!
+- question: China in wikipedia
+  method: GetWikipediaPage
