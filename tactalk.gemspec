@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "....."
   s.authors     = ["Tacnoman"]
   s.email       = 'renatocassino@gmail.com'
-  s.files       = ["lib/tactalk.rb", "lib/action.rb"]
+  s.files       = ["lib/tactalk.rb"]
   s.homepage    =
     'https://github.com/tacnoman/tactalk'
   s.license = 'MIT'
